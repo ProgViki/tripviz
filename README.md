@@ -39,3 +39,35 @@ This system allows **users to book trips, view available vehicles, make payments
 
 ## 📂 Monorepo Structure
 
+
+---
+
+## 🔑 Features
+
+- ✅ **User Features**
+  - Register & Login with authentication  
+  - Book a trip  
+  - View available vehicles & trip schedules  
+  - Make secure payments  
+
+- ✅ **Admin Features**
+  - Approve or reject bookings  
+  - Manage users, drivers, and vehicles  
+  - Monitor trips and payments  
+  - View all system activities  
+
+- ✅ **System Features**
+  - Monorepo structure for frontend & backend  
+  - Centralized Prisma schema & database migrations  
+  - Modular, scalable API with NestJS  
+  - Responsive UI with React + AntD + Tailwind  
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/your-username/trip-booking-app.git
+cd trip-booking-app
+
