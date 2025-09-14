@@ -39,7 +39,14 @@ This system allows **users to book trips, view available vehicles, make payments
 
 ## 📂 Monorepo Structure
 
-
+trip-booking-app/
+│── apps/
+│ ├── frontend/ # React + AntD + Tailwind
+│ ├── backend/ # NestJS + Prisma + PostgreSQL
+│── prisma/ # Shared Prisma schema
+│── package.json # Monorepo dependencies
+│── tsconfig.json # Typescript config
+│── README.md
 ---
 
 ## 🔑 Features
